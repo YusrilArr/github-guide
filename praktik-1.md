@@ -1,1 +1,1 @@
-![This is an image](/assets/gitguide.jpg "lalalalaal")
+![This is an image](/assets/gitguide.jpg)
